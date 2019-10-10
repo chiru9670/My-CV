@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.4)  10 OCT 2019 20:39
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.4)  11 OCT 2019 02:02
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/chiru9670/My-CV/resume.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.167 seconds
+luaotfload | main : initialization completed in 0.191 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/home/chiru9670/My-CV/awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -1211,37 +1211,57 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 13.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 13.
-) (/home/chiru9670/My-CV/resume/scholastic.tex) (/home/chiru9670/My-CV/resume/courses.tex) (/home/chiru9670/My-CV/resume/projects.tex) (/home/chiru9670/My-CV/resume/skills.tex
+) (/home/chiru9670/My-CV/resume/scholastic.tex) (/home/chiru9670/My-CV/resume/courses.tex) (/home/chiru9670/My-CV/resume/projects.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 69.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
+(Font)              scaled to size 9.0pt on input line 69.
+
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 15--70
+   [] 
+ []
+
+
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 15--70
+   [] 
+ []
+
+
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 15--70
+   [] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}</home/chiru9670/My-CV/IITD.png>]) (/home/chiru9670/My-CV/resume/skills.tex
 Overfull \hbox (65.83789pt too wide) in alignment at lines 3--11
 [] []
  []
 
-) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}</home/chiru9670/My-CV/IITD.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+) (/home/chiru9670/My-CV/resume/co-curricular.tex) [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
  (/home/chiru9670/My-CV/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 107.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 107.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 39621 strings out of 494480
+ 39642 strings out of 494480
  125171,1144653 words of node,token memory allocated
  536 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 79 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 1:3,2:990,3:188,4:131,5:330,6:1605,7:911,8:81,9:301,10:11,11:143
- 42200 multiletter control sequences out of 65536+600000
- 78 fonts using 22454575 bytes
+   avail lists: 1:3,2:1472,3:287,4:192,5:753,6:3704,7:1616,8:125,9:467,10:11,11:365
+ 42204 multiletter control sequences out of 65536+600000
+ 80 fonts using 23076695 bytes
  72i,11n,89p,930b,801s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.ttf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf>
-Output written on resume.pdf (1 page, 68612 bytes).
+Output written on resume.pdf (2 pages, 73898 bytes).
 
-PDF statistics: 81 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 131072)
+PDF statistics: 86 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
