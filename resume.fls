@@ -332,6 +332,10 @@ INPUT /home/chiru9670/My-CV/resume/scholastic.tex
 INPUT /home/chiru9670/My-CV/resume/scholastic.tex
 INPUT /home/chiru9670/My-CV/resume/courses.tex
 INPUT /home/chiru9670/My-CV/resume/courses.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /home/chiru9670/My-CV/resume/projects.tex
 INPUT /home/chiru9670/My-CV/resume/projects.tex
 INPUT /home/chiru9670/My-CV/resume/skills.tex
