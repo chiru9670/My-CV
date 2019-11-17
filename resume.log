@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.4)  24 OCT 2019 22:46
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.4)  17 NOV 2019 18:12
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/chiru9670/My-CV/resume.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.166 seconds
+luaotfload | main : initialization completed in 0.617 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (/home/chiru9670/My-CV/awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -1240,14 +1240,14 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/bx/sl' in size <6> not avail
 (Font)              Font shape `TU/SourceSansPro(3)/bx/it' tried instead on input line 5.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(3)/bx/it' will be
 (Font)              scaled to size 6.0pt on input line 5.
-) (/home/chiru9670/My-CV/resume/projects.tex
+) (/home/chiru9670/My-CV/resume/projects.tex [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}</home/chiru9670/My-CV/IITD.png>]
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 73.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 73.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}</home/chiru9670/My-CV/IITD.png>]) (/home/chiru9670/My-CV/resume/skills.tex
+) (/home/chiru9670/My-CV/resume/skills.tex
 Overfull \hbox (65.83789pt too wide) in alignment at lines 3--11
 [] []
  []
@@ -1267,12 +1267,12 @@ Here is how much of LuaTeX's memory you used:
  125171,1144653 words of node,token memory allocated
  536 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 79 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 1:2,2:1497,3:287,4:192,5:750,6:3635,7:1619,8:125,9:478,10:11,11:353
+   avail lists: 1:2,2:1317,3:245,4:166,5:627,6:2952,7:1371,8:112,9:419,10:11,11:283
  42225 multiletter control sequences out of 65536+600000
- 100 fonts using 33453631 bytes
- 72i,11n,89p,930b,801s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 100 fonts using 33453543 bytes
+ 72i,12n,89p,930b,801s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-SemiboldIt.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Semibold.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.ttf></home/chiru9670/texmf/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf>
-Output written on resume.pdf (2 pages, 76154 bytes).
+Output written on resume.pdf (2 pages, 76976 bytes).
 
 PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
